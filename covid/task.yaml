@@ -1,0 +1,5 @@
+%YAML 1.2
+---
+name: covid
+description: COVID-19
+max_score: 25

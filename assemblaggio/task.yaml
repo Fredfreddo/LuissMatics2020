@@ -1,0 +1,5 @@
+%YAML 1.2
+---
+name: assemblaggio
+description: Assemblaggio di DNA
+max_score: 25
