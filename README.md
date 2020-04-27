@@ -9,10 +9,12 @@ Tasks inventors:
   
   Assemblaggio: Nicola Prezza
   
-Collaborators:
+Generators/solutions/contest Collaborators:
 
   Michele Lizzit
   
+  Fangqing Yuan
+  
   Francesco Redaelli
   
-  Fangqing Yuan
+  
