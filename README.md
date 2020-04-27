@@ -1,5 +1,5 @@
 # LuissMatics2020
-Tasks inventors:
+Tasks inventors:\n
   Parigi: Giuseppe Italiano
   Covid: Irene Finocchi
   Fred: Fangqing Yuan
