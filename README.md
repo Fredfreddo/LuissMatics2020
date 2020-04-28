@@ -17,4 +17,6 @@ Generators/solutions/contest Collaborators:
   
   Francesco Redaelli
   
+  Carlo Malagnino
+  
   
