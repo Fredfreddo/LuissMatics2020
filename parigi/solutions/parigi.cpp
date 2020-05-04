@@ -21,7 +21,7 @@ int main(){
         for(int i=0;i<N;i++){
             string s;
             getline(cin, s);
-            s=s.substr(12);
+            s=s.substr(11);
             if(l.count(s)==0){
                 l.insert(s);
                 ris++;
