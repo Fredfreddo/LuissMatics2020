@@ -1,5 +1,5 @@
 # LuissMatics2020
-**Tasks inventors:
+## Tasks inventors:
 
   Parigi: Giuseppe Italiano
   
@@ -9,7 +9,7 @@
   
   Assemblaggio: Nicola Prezza
   
-**Generators/solutions/contest Collaborators:
+## Generators/solutions/contest Collaborators:
 
   Michele Lizzit
   
